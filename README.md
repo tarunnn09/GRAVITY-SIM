@@ -10,12 +10,6 @@ A real-time N-body gravitational simulation written in C++ using SFML. Planets o
 
 ---
 
-## What it looks like
-
-> *(add a screen recording GIF here — just record your screen for 10 seconds with QuickTime on Mac and drag the file into this folder)*
-
----
-
 ## Scenes
 
 There are 4 presets you can load:
