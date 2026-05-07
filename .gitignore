@@ -1,0 +1,22 @@
+# build folder
+build/
+cmake-build-debug/
+cmake-build-release/
+
+# compiled output
+gravity
+*.o
+*.out
+
+# macos junk
+.DS_Store
+
+# vscode stuff
+.vscode/
+
+# cmake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+install_manifest.txt
